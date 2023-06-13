@@ -1,43 +1,43 @@
 #app {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-    background: rgb(47, 79, 79, 0.9);
-  }
-  
-  #calculator {
-    width: 300px;
-    position: relative;
-    background: #1f3636;
-    box-shadow: 0 0 4px;
-    padding: 5px;
-  }
-  
-  #displayContainer {
-    height: 60px;
-    padding: 0px;
-    background: #1f3636;
-    color: white;
-    text-align: right;
-    font-family: 'alarm clock';
-    font-size: 20px;
-  }
-  
-  #formula {
-    color: orange;
-  }
-  
-  #author {
-    text-align: center;
-    margin-top: 15px;
-    font-family: 'Share Tech Mono';
-    line-height: 20px;
-    font-size: 16px;
-  }
-  
-  #authorLink {
-    color: white;
-    padding-top: 0;
-  }
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  background: rgb(47, 79, 79, 0.9);
+}
+
+#calculator {
+  width: 300px;
+  position: relative;
+  background: #1f3636;
+  box-shadow: 0 0 4px;
+  padding: 5px;
+}
+
+#displayContainer {
+  height: 60px;
+  padding: 0px;
+  background: #1f3636;
+  color: white;
+  text-align: right;
+  font-family: "alarm clock";
+  font-size: 20px;
+}
+
+#formula {
+  color: orange;
+}
+
+#author {
+  text-align: center;
+  margin-top: 15px;
+  font-family: "Share Tech Mono";
+  line-height: 20px;
+  font-size: 16px;
+}
+
+#authorLink {
+  color: white;
+  padding-top: 0;
+}
